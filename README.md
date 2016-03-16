@@ -8,4 +8,12 @@
 | Ilker Turan  | 1428038        |
 | Daud Nasir   | 1421685        |  
   
-Copyright (c) 2016
+
+
+
+
+
+
+
+© 2015 Daud Nasir 
+###### All Rights not Reservedv
