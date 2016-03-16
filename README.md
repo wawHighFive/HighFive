@@ -1,4 +1,4 @@
-## WAW Gruppe: HighFive  
+﻿## WAW Gruppe: HighFive  
 
 **Mitglieder**  
  
@@ -7,3 +7,5 @@
 | Büsra Yildiz | 1421728        |
 | Ilker Turan  | 1428038        |
 | Daud Nasir   | 1421685        |  
+  
+Copyright (c) 2016
