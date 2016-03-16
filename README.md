@@ -16,4 +16,4 @@
 
 
 © 2015 Daud Nasir 
-###### All Rights not Reservedv
+###### All Rights not Reserved
