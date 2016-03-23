@@ -10,10 +10,5 @@
   
 
 
-
-
-
-
-
-© 2016 WAW HighFive-Team
+© 2016 WAW HighFive team
 ###### All Rights not Reserved
